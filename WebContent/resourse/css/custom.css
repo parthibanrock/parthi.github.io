@@ -1,0 +1,85 @@
+
+*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Exo:700');
+
+@import url('https://fonts.googleapis.com/css?family=Diplomata+SC');
+
+.our-logo{
+    font-family: 'Exo', sans-serif; 
+    color:#e74c3c;
+}
+/*.alt4{
+     border-radius: 25px;
+
+}*/
+
+.our-submission{
+    font-family: 'Pacifico', cursive;
+    color:#e74c3c;
+}
+
+.alt{
+    min-height: 100px;
+    min-width: 100%;
+    text-align: center;
+    background-color: grey;
+}
+
+
+
+.wrap-login{
+    padding:20px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+    background-color: #fff;
+    border: solid 1px #286090;
+    border-radius: 25px;
+
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.1);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.1);
+
+    /*   border-radius: 29px 29px 29px 29px;
+ -moz-border-radius: 29px 29px 29px 29px;
+ -webkit-border-radius: 29px 29px 29px 29px;
+ border: 0px solid #000000;*/
+
+
+}
+
+.wrap-Register{
+    margin-top: 20px;
+    margin-bottom:  40px;    
+    padding:20px;    
+    border: solid 1px #286090;
+    border-radius: 15px 50px 30px;
+    
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.06);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.06);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.06);
+
+}
+
+.btn-login{
+    background-color:#286090;
+    color:#fff;
+    margin-top: 10px;
+}
+
+.site-footer{
+    background-color: grey; 
+    color:#fff;
+    margin-top: 30px;
+    padding-top: 30px;
+    text-align: center;
+    width:100%;
+   
+}
+
+.btn-Register{
+    background-color:#b30000;
+    color:#fff;
+    margin-top: 10px;
+}
